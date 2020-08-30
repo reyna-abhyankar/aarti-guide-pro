@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>devfile</key>
+		<string>ganesh-dn</string>
+		<key>engfile</key>
+		<string>ganesh-en</string>
+		<key>pic</key>
+		<string>ganesha</string>
+		<key>devname</key>
+		<string>सुखकर्ता दुखहर्ता</string>
+		<key>engname</key>
+		<string>Sukhakarta dukhaharta</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>shendur-dn</string>
+		<key>engfile</key>
+		<string>shendur-en</string>
+		<key>pic</key>
+		<string>ganesha</string>
+		<key>devname</key>
+		<string>शेंदुर लाल चढायो</string>
+		<key>engname</key>
+		<string>Shendur lal chadhayo</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>devi-dn</string>
+		<key>engfile</key>
+		<string>devi-en</string>
+		<key>pic</key>
+		<string>devi</string>
+		<key>devname</key>
+		<string>दुर्गे दुर्घट भारी</string>
+		<key>engname</key>
+		<string>Durge durghat bhari</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>shiva-dn</string>
+		<key>engfile</key>
+		<string>shiva-en</string>
+		<key>pic</key>
+		<string>shiva</string>
+		<key>devname</key>
+		<string>लवथवती विक्राळा</string>
+		<key>engname</key>
+		<string>Lavthavti vikrala</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>pandurang-dn</string>
+		<key>engfile</key>
+		<string>pandurang-en</string>
+		<key>pic</key>
+		<string>pandurang</string>
+		<key>devname</key>
+		<string>युगे अठ्ठावीस</string>
+		<key>engname</key>
+		<string>Yuge atthavis</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>yehi-ho-vitthale-dn</string>
+		<key>engfile</key>
+		<string>yehi-ho-vitthale-en</string>
+		<key>pic</key>
+		<string>pandurang</string>
+		<key>devname</key>
+		<string>येई हो विठ्ठले</string>
+		<key>engname</key>
+		<string>Yehi ho vitthale</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>dashavtar-dn</string>
+		<key>engfile</key>
+		<string>dashavtar-en</string>
+		<key>pic</key>
+		<string>dashavtar</string>
+		<key>devname</key>
+		<string>अारती सप्रेम जय जय</string>
+		<key>engname</key>
+		<string>Aarti saprem jai jai</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>ram-dn</string>
+		<key>engfile</key>
+		<string>ram-en</string>
+		<key>pic</key>
+		<string>ram</string>
+		<key>devname</key>
+		<string>उत्कट साधुनि</string>
+		<key>engname</key>
+		<string>Utkat saadhuni</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>maruti-dn</string>
+		<key>engfile</key>
+		<string>maruti-en</string>
+		<key>pic</key>
+		<string>maruti</string>
+		<key>devname</key>
+		<string>सत्राणे उड्डाणे</string>
+		<key>engname</key>
+		<string>Satraane uddaane</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>dutta-dn</string>
+		<key>engfile</key>
+		<string>dutta-en</string>
+		<key>pic</key>
+		<string>dutta</string>
+		<key>devname</key>
+		<string>त्रिगुणात्मक त्रैमूर्ती</string>
+		<key>engname</key>
+		<string>Trigunatmak traimurthi</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>narasimha-dn</string>
+		<key>engfile</key>
+		<string>narasimha-en</string>
+		<key>pic</key>
+		<string>narasimha</string>
+		<key>devname</key>
+		<string>कडकडिले स्तंभ</string>
+		<key>engname</key>
+		<string>Kadakadile stambha</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>krishna-dn</string>
+		<key>engfile</key>
+		<string>krishna-en</string>
+		<key>pic</key>
+		<string>krishna</string>
+		<key>devname</key>
+		<string>ओवाळू आरती</string>
+		<key>engname</key>
+		<string>Ovaalu aarati</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>satyanarayan-dn</string>
+		<key>engfile</key>
+		<string>satyanarayan-en</string>
+		<key>pic</key>
+		<string>satyanarayan</string>
+		<key>devname</key>
+		<string>जय जय दीनदयाळा</string>
+		<key>engname</key>
+		<string>Jai jai deen dayala</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>omjagdeesh-dn</string>
+		<key>engfile</key>
+		<string>omjagdeesh-en</string>
+		<key>pic</key>
+		<string>om</string>
+		<key>devname</key>
+		<string>अोम् जगदीश हरे</string>
+		<key>engname</key>
+		<string>Om Jagdish Hare</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>omjagdeesh-dn</string>
+		<key>engfile</key>
+		<string>omjagdeesh-en</string>
+		<key>pic</key>
+		<string>om</string>
+		<key>devname</key>
+		<string>अोम् जगदीश हरे</string>
+		<key>engname</key>
+		<string>Om Jagdish Hare</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>sai-dn</string>
+		<key>engfile</key>
+		<string>sai-en</string>
+		<key>pic</key>
+		<string>saibaba</string>
+		<key>devname</key>
+		<string>आरती साईबाबा</string>
+		<key>engname</key>
+		<string>Aarati sai baba</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>ghalin-lotangan-dn</string>
+		<key>engfile</key>
+		<string>ghalin-lotangan-en</string>
+		<key>pic</key>
+		<string>om</string>
+		<key>devname</key>
+		<string>घालीन लोटांगण</string>
+		<key>engname</key>
+		<string>Ghalin lotangan</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>karpurarti-dn</string>
+		<key>engfile</key>
+		<string>karpurarti-en</string>
+		<key>pic</key>
+		<string>om</string>
+		<key>devname</key>
+		<string>कर्पुरारती</string>
+		<key>engname</key>
+		<string>Karpurarti</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>mantra-pushpanjali-dn</string>
+		<key>engfile</key>
+		<string>mantra-pushpanjali-en</string>
+		<key>pic</key>
+		<string>om</string>
+		<key>devname</key>
+		<string>मंत्रपुष्पांजली</string>
+		<key>engname</key>
+		<string>Mantra pushpanjali</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>atharva-dn</string>
+		<key>engfile</key>
+		<string>atharva-en</string>
+		<key>pic</key>
+		<string>ganesha</string>
+		<key>devname</key>
+		<string>अथर्वशीर्ष</string>
+		<key>engname</key>
+		<string>Atharvashirsha</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>pranamya-shirsa-dn</string>
+		<key>engfile</key>
+		<string>pranamya-shirsa-en</string>
+		<key>pic</key>
+		<string>ganesha</string>
+		<key>devname</key>
+		<string>प्रणम्य शिरसा देवं</string>
+		<key>engname</key>
+		<string>Pranamya shirsa devam</string>
+	</dict>
+	<dict>
+		<key>devfile</key>
+		<string>bheemrupi-dn</string>
+		<key>engfile</key>
+		<string>bheemrupi-en</string>
+		<key>pic</key>
+		<string>maruti</string>
+		<key>devname</key>
+		<string>भीमरूपी</string>
+		<key>engname</key>
+		<string>Bheemrupi</string>
+	</dict>
+</array>
+</plist>
